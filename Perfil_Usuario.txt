@@ -1,0 +1,3 @@
+Nombre:Ramos
+Apellido:Ramos
+Edad:16años
